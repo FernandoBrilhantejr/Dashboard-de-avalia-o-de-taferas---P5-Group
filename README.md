@@ -30,3 +30,6 @@ A area que estamos vendo é a principal para visualização de tarefas em time. 
 
 **Estatísticas**
 A area que estamos vendo é a principal para visualização das estatísticas que direcionam para visualização de conclusão das tarefas para ampliar a visualização do workflow, encontrar o problema e solucioná-lo. Utilize os filtros acima das tarefas para localiza-las pelo Nome da Tafera,e o periodo (Data) de criação e finalização da tarefa. Ao lado está a visualização da situação das tarefas diárias, conclusão diária e tarefas criadas sem informações em gráficos.
+
+![Dashboard 1](screenshots/Dashboard%201%20.png)
+
