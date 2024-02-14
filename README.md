@@ -33,5 +33,5 @@ A area que estamos vendo é a principal para visualização das estatísticas qu
 
 ![Dashboard 1](screenshot/Dashboard%201%20.png)
 ![dashboard 2 - tarefas individuais](screenshot/dashboard%202%20-%20tarefas%20individuais.png)
-![Dashboard 1](screenshot/Dashboard%201%20.png)
+![dashboard 3 - tarefas time](screenshot/dashboard%203%20-%20tarefas%20time.png)
 ![Dashboard 1](screenshot/Dashboard%201%20.png)
